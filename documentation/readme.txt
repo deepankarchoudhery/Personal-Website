@@ -1,0 +1,1 @@
+This is a personal portfolio website I made for myself using a bootstrap template from Kicksy. The documentation from Kicksy can be found in the "documentation" folder. 
